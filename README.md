@@ -56,6 +56,11 @@ In the files triplet_loss_val.ipynb and cross_entropy_val.ipynb we can visualize
 
 To test models in real time we change the model path based on the missing function that we want to use in the real_time.ipynb file.
 
+Below we have a sample of a recognition frame in real time with the model that gave us the best result (ResNet50 with the use of Triplet Loss):
+
+![alt text](https://github.com/sergisolis/TFG-Real_Time_Facial_Recognition/blob/main/imgs/real-time_frame.png)
+
+
 ## References
 
 - DeepFace: https://github.com/serengil/deepface
